@@ -16,4 +16,4 @@ Python 3.11 · TypeScript / React 19 · Vite · pytest · GitHub Actions · bina
 
 ## Contact
 
-Issues on any repository, or [bansovi.py@gmail.com](mailto:bansovi.py@gmail.com).
+Issues on any repository.
